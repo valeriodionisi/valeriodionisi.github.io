@@ -128,7 +128,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: Teaching
+    id: posts
     content:
       title: Recent Posts
       subtitle: ''
