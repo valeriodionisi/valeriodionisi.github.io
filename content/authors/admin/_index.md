@@ -32,7 +32,7 @@ interests:
   - Heterogeneous agents and Inequality
   - Macro-Labour
   - Firm Dynamics
-  - Growth
+  - Numerical Methods
 
 # Education to show in About widget
 education:
@@ -100,7 +100,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/valerio_dionisi
     label: Follow me on Twitter
     display:
       header: true
@@ -124,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Doctoral student in the Ph.D. in Economics, Statistics and Data Science at the University of Milano-Bicocca, Department of Economics, Management and Statistics. My research interests concern the field of macroeconomics, in particular heterogeneous agents modelling, fiscal and monetary policy, dynamic macroeconomics and growth economics, and numerical methods. Visiting period at the Facultat d'Econonomia i Empresa, Universitat Pompeu Fabra. Master of Science in European Economy and Business Law ("Tor Vergata" University of Rome, taught in english). Bachelor degree in Political Sciences and International Relations (University of Roma Tre, taught in italian).
 {style="text-align: justify;"}
