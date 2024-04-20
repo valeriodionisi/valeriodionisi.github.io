@@ -1,6 +1,6 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
+title: Global Macroeconomics
+date: '2024-20-04'
 summary: Easily blog from Jupyter notebooks!
 ---
 
