@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Valerio Dionisi # Website name
-baseURL: 'https://www.valeriodionisi.com/' # Website URL
+#baseURL: 'https://www.valeriodionisi.com/' # Website URL
 relative_url: 'https://www.valeriodionisi.com/'
 
 ############################
