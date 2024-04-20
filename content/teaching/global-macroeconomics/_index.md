@@ -1,7 +1,7 @@
 ---
 title: Global Macroeconomics
 date: '2024-20-04'
-summary: Easily blog from Jupyter notebooks!
+summary: University of Milano-Bicocca
 ---
 
 
