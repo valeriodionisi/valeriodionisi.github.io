@@ -1,6 +1,6 @@
 ---
 title: Numerical Methods for Global Macroeconomics
-subtitle: University of Milano-Bicocca
+subtitle: Department of Economics, Management and Statistics, University of Milano-Bicocca
 
 # Summary for listings and search engines
 summary: MSc in International Economics, University of Milano-Bicocca
