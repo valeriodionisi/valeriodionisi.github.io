@@ -41,11 +41,6 @@ categories:
   - 教程
 ---
 
-```python
-import libr
-print('hello')
-```
-
 ## Overview
 
 This course is the technical and tutorial part of a the larger module "Global Macroeconomics". The course teaches how to solve and simulate quantitative macroeconomic models designed to explain business cycles and economic fluctuations. These models highlight the role of forward looking expectations and uncertainty in macroeconomics. Detailed program:
@@ -58,10 +53,16 @@ This course is the technical and tutorial part of a the larger module "Global Ma
 5. Optimal monetary policy (_discretion_ vs. _committment_) in NK models;
 6. Topics in _Bayesian estimation_.
 
-All the models are firstly introdyced in their theoretical framework, to then learn to simulate them in _dynare_.
+All the models are firstly introduced in their theoretical framework, to then learn how to simulate them in _dynare_.
 {style="text-align: justify;"}
 
 ## Teaching material
+
+- **_Lecture 1_**:
+- **_Lecture 2_**:
+- **_Lecture 3_**:
+
+## Miscellaneous
 
 [![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)
 
