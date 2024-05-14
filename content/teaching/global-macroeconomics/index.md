@@ -12,7 +12,7 @@ projects: []
 date: '2024-20-04T00:00:00Z'
 
 # Date updated
-lastmod: '22024-05-14T00:00:00Z'
+lastmod: '2024-05-14T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
