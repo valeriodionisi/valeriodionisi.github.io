@@ -74,17 +74,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Tennis
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: person-tennis
         icon_pack: fas
-      - name: Cats
+      - name: Music
         description: ''
         percent: 100
-        icon: cat
+        icon: guitar
         icon_pack: fas
-      - name: Photography
+      - name: Motorcycle
         description: ''
         percent: 80
         icon: camera-retro
