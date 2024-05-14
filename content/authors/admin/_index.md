@@ -76,13 +76,13 @@ skills:
     items:
       - name: Tennis
         description: ''
-        percent: 60
+        percent: 80
         icon: tennis
         icon_pack: fas
       - name: Music
         description: ''
         percent: 100
-        icon: guitar
+        icon: #guitar
         icon_pack: fas
       - name: Motorcycle
         description: ''
