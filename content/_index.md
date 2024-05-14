@@ -68,8 +68,8 @@ sections:
           company_url: ''
           company_logo: logo-upf
           location: Barcelona, Spain
-          date_start: '2023-09-01'
-          date_end: '2023-12-31'
+          date_start: '2023'  #'2023-09-01'
+          date_end: '2023'  #'2023-12-31'
           description:
         - title: Ph.D. in Economics, Statistics and Data Science
           company: University of Milano-Bicocca
