@@ -57,18 +57,18 @@ skills:
     items:
       - name: MatLab
         description: ''
-        percent: 80
+        percent: 90
         icon: matlab
         icon_pack: fab
-      - name: Data Science
+      - name: Stata
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 70
+        icon: stata
         icon_pack: fas
-      - name: SQL
+      - name: LaTeX
         description: ''
-        percent: 40
-        icon: database
+        percent: 90
+        icon: latex
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
