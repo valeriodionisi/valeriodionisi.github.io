@@ -98,7 +98,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: x
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/valerio_dionisi
     label: Follow me on Twitter

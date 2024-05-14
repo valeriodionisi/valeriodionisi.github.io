@@ -58,9 +58,7 @@ All the models are firstly introduced in their theoretical framework, to then le
 
 ## Teaching material
 
-- **_Lecture 1_**:
-- **_Lecture 2_**:
-- **_Lecture 3_**:
+The teaching material for this course can be found [**here**](https://github.com/valeriodionisi/NumericalMethods_dynare).
 
 ## Miscellaneous
 
