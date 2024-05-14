@@ -28,16 +28,16 @@ image:
   placement: 2
   preview_only: false
 
-authors:
-  - admin
+authors: admin
+  #- admin
   #- 吳恩達
 
-tags:
-  - Academic
+tags: Academic
+  #- Academic
   #- 开源
 
-categories:
-  - Demo
+categories: Demo
+  #- Demo
   #- 教程
 ---
 
