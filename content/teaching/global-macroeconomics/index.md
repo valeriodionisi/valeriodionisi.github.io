@@ -25,7 +25,7 @@ featured: false
 image:
   caption: 'Cadaqués, Spain' #'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ''
-  placement: 2
+  placement: 4
   preview_only: false
 
 authors:
