@@ -35,20 +35,20 @@ interests:
   - Numerical Methods
 
 # Education to show in About widget
-education:
-  courses:
-    - course: Visiting Ph.D scholar
-      institution: Universitat Pompeu Fabra
-      year: 2023
-    - course: PhD in Economics, Statistics and Data Science
-      institution: University of Milano-Bicocca
-      year: 2021-current
-    - course: MSc in European Economy and Business Law
-      institution: Tor Vergata University
-      year: 2019-2021
-    - course: BA in Political Sciences
-      institution: Roma 3 University
-      year: 2016-2019
+#education:
+#  courses:
+#    - course: Visiting Ph.D scholar
+#      institution: Universitat Pompeu Fabra
+#      year: 2023
+#    - course: PhD in Economics, Statistics and Data Science
+#      institution: University of Milano-Bicocca
+#      year: 2021-current
+#    - course: MSc in European Economy and Business Law
+#      institution: Tor Vergata University
+#      year: 2019-2021
+#    - course: BA in Political Sciences
+#      institution: Roma 3 University
+#      year: 2016-2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
