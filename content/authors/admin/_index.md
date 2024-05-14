@@ -77,7 +77,7 @@ skills:
       - name: Tennis
         description: ''
         percent: 60
-        icon: person-tennis
+        icon: tennis
         icon_pack: fas
       - name: Music
         description: ''
@@ -87,7 +87,7 @@ skills:
       - name: Motorcycle
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: moto
         icon_pack: fas
 
 # Social/Academic Networking
