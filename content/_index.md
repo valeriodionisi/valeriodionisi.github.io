@@ -138,7 +138,7 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: teaching
+  - block: collection
     id: teaching
     content:
       title: Teaching
@@ -248,24 +248,24 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: valerio.dionisi@unimib.it
+      phone:
+      appointment_url: # 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: Piazza dell'Ateneo Nuovo, 1
+        city: Milan
+        region: 
+        postcode: '20126'
+        country: Italy
+        country_code: IT
+      directions: Building U6, 3rd Floor
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '45.518270'
+        longitude: '9.213830'  
       contact_links:
         - icon: twitter
           icon_pack: fab
