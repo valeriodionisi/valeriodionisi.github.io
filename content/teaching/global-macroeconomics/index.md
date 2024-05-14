@@ -34,7 +34,7 @@ authors:
 
 tags:
   - Academic
-  - 开源
+  #- 开源
 
 #categories:
 #  - Demo
@@ -43,7 +43,7 @@ tags:
 
 ## Overview
 
-This course is the technical and tutorial part of a the larger module "Global Macroeconomics". The course teaches how to solve and simulate quantitative macroeconomic models designed to explain business cycles and economic fluctuations. These models highlight the role of forward looking expectations and uncertainty in macroeconomics. Detailed program:
+This course is the technical and tutorial part of the larger module "Global Macroeconomics". The course teaches how to solve and simulate quantitative macroeconomic models designed to explain business cycles and economic fluctuations. These models highlight the role of forward looking expectations and uncertainty in macroeconomics. Detailed program:
 {style="text-align: justify;"}
 
 1. _Recursive methods_ and introduction to _dynare_;
