@@ -73,7 +73,7 @@ sections:
         - title: Ph.D. in Economics, Statistics and Data Science
           company: University of Milano-Bicocca
           company_url: ''
-          company_logo: unimib
+          company_logo: logo-unimib
           location: Milan, Italy
           date_start: '2021-11-01'
           date_end: ''
@@ -81,7 +81,7 @@ sections:
         - title: MSc in European Economy and Business Law
           company: University of Rome Tor Vergata
           company_url: ''
-          company_logo: org-gc
+          company_logo: logo-torvergata
           location: Rome, Italy
           date_start: '2019-09-17'
           date_end: '2021-07-07'
@@ -89,7 +89,7 @@ sections:
         - title: BA in Political Sciences
           company: University of Rome Tre
           company_url: ''
-          company_logo: org-gc
+          company_logo: logo-romatre
           location: Rome, Italy
           date_start: '2016-10-01'
           date_end: '2021-11-08'
