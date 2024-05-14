@@ -61,11 +61,12 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      #   Logos are stored in .sgv format in assets/media/icon/brands
       items:
         - title: Visiting Ph.D. Scholar
           company: Universitat Pompeu Fabra
           company_url: ''
-          company_logo: org-gc
+          company_logo: logo-upf
           location: Barcelona, Spain
           date_start: '2023-09-01'
           date_end: '2023-12-31'
