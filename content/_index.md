@@ -75,14 +75,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: MSc in European Economy and Business Law
+          company: University of Rome Tor Vergata
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Rome, Italy
+          date_start: '2019'
+          date_end: '2021'
+          description:
     design:
       columns: '2'
   - block: accomplishments
