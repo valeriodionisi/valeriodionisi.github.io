@@ -48,9 +48,16 @@ print('hello')
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+This course is the technical and tutorial part of a the larger module "Global Macroeconomics". The course teaches how to solve and simulate quantitative macroeconomic models designed to explain business cycles and economic fluctuations. These models highlight the role of forward looking expectations and uncertainty in macroeconomics. Detailed program:
+
+1. _Recursive methods_ and introduction to _dynare_;
+2. _Deterministic simulation_: solution of the Solow (1956) model, and simulation of the Rmasey-Cass-Koopmans economy;
+3. _Real Business Cycle_ (RBC) models, and introduction to _log_-linearization;
+4. Baseline _new Keynesian_ (NK) models;
+5. Optimal monetary policy (_discretion_ vs. _committment_) in NK models;
+6. Topics in _Bayesian estimation_.
+
+All the models are firstly introdyced in their theoretical framework, to then learn to simulate them in _dynare_.
 
 [![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)
 
