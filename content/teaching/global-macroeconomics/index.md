@@ -49,16 +49,16 @@ print('hello')
 ## Overview
 
 This course is the technical and tutorial part of a the larger module "Global Macroeconomics". The course teaches how to solve and simulate quantitative macroeconomic models designed to explain business cycles and economic fluctuations. These models highlight the role of forward looking expectations and uncertainty in macroeconomics. Detailed program:
+{style="text-align: justify;"}
 
 1. _Recursive methods_ and introduction to _dynare_;
 2. _Deterministic simulation_: solution of the Solow (1956) model, and simulation of the Rmasey-Cass-Koopmans economy;
 3. _Real Business Cycle_ (RBC) models, and introduction to _log_-linearization;
-4. Baseline _new Keynesian_ (NK) models;
+4. Baseline _New Keynesian_ (NK) models;
 5. Optimal monetary policy (_discretion_ vs. _committment_) in NK models;
 6. Topics in _Bayesian estimation_.
 
 All the models are firstly introdyced in their theoretical framework, to then learn to simulate them in _dynare_.
-
 {style="text-align: justify;"}
 
 ## Teaching material
