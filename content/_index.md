@@ -110,15 +110,24 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: uploads/certificate_LSE.pdf
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-07-25'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: logo-LSE
+          organization: London School of Economics
+          organization_url: 
+          title: Advanced Tool for Macroeconomists
           url: ''
+        #- certificate_url: https://www.coursera.org
+        # date_end: ''
+        #  date_start: '2021-01-25'
+        #  description: ''
+        #  icon: coursera
+        #  organization: Coursera
+        #  organization_url: https://www.coursera.org
+        #  title: Neural Networks and Deep Learning
+        #  url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
