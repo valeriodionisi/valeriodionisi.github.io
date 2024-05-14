@@ -138,7 +138,7 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
+  - block: teaching
     id: teaching
     content:
       title: Teaching
