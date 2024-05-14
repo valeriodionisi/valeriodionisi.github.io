@@ -97,10 +97,10 @@ sections:
           description:
     design:
       columns: '2'
-  - block: accomplishments
+  - block: Further education #accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: Further education #'Accomplish&shy;ments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -112,7 +112,7 @@ sections:
       items:
         - certificate_url: uploads/certificate_LSE.pdf
           date_end: ''
-          date_start: '2022-07-25'
+          date_start: '2022-07-22'
           description: ''
           icon: logo-LSE
           organization: London School of Economics
