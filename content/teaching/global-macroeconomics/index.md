@@ -3,7 +3,7 @@ title: Global Macroeconomics
 subtitle: University of Milano-Bicocca
 
 # Summary for listings and search engines
-summary: MSc in International Economics
+summary: MSc in International Economics, University of Milano-Bicocca
 
 # Link this post with a project
 projects: []
@@ -28,17 +28,17 @@ image:
   placement: 2
   preview_only: false
 
-authors: admin
-  #- admin
-  #- 吳恩達
+authors:
+  - admin
+  - 吳恩達
 
-tags: Academic
-  #- Academic
-  #- 开源
+tags:
+  - Academic
+  - 开源
 
-categories: Demo
-  #- Demo
-  #- 教程
+categories:
+  - Demo
+  - 教程
 ---
 
 ```python
