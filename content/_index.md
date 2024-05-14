@@ -73,7 +73,7 @@ sections:
         - title: Ph.D. in Economics, Statistics and Data Science
           company: University of Milano-Bicocca
           company_url: ''
-          company_logo: org-gc
+          company_logo: unimib
           location: Milan, Italy
           date_start: '2021-11-01'
           date_end: ''
