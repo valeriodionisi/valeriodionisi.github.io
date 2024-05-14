@@ -29,7 +29,7 @@ bio: My research interests lie in the field of macroeconomics, in particular str
 
 # Interests to show in About widget
 interests:
-  - Heterogeneous agents and Inequality
+  - Heterogeneity and Inequality
   - Macro-Labour
   - Firm Dynamics
   - Numerical Methods
@@ -98,7 +98,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: x
     icon_pack: fab
     link: https://twitter.com/valerio_dionisi
     label: Follow me on Twitter
