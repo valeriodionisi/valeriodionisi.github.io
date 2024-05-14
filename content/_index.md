@@ -65,7 +65,7 @@ sections:
         - title: Visiting Ph.D. Scholar
           company: Universitat Pompeu Fabra
           company_url: ''
-          company_logo: org-phd
+          company_logo: org-gc
           location: Barcelona, Spain
           date_start: '2023-09-01'
           date_end: '2023-12-31'
@@ -73,7 +73,7 @@ sections:
         - title: Ph.D. in Economics, Statistics and Data Science
           company: University of Milano-Bicocca
           company_url: ''
-          company_logo: org-phd
+          company_logo: org-gc
           location: Milan, Italy
           date_start: '2021-11-01'
           date_end: ''
@@ -81,7 +81,7 @@ sections:
         - title: MSc in European Economy and Business Law
           company: University of Rome Tor Vergata
           company_url: ''
-          company_logo: org-msc
+          company_logo: org-gc
           location: Rome, Italy
           date_start: '2019-09-17'
           date_end: '2021-07-07'
@@ -89,7 +89,7 @@ sections:
         - title: BA in Political Sciences
           company: University of Rome Tre
           company_url: ''
-          company_logo: org-ba
+          company_logo: org-gc
           location: Rome, Italy
           date_start: '2016-10-01'
           date_end: '2021-11-08'
