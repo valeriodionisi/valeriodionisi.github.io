@@ -1,5 +1,5 @@
 ---
-title: Global Macroeconomics
+title: Numerical Methods for Global Macroeconomics
 subtitle: University of Milano-Bicocca
 
 # Summary for listings and search engines
