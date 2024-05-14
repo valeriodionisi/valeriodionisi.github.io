@@ -59,6 +59,10 @@ This course is the technical and tutorial part of a the larger module "Global Ma
 
 All the models are firstly introdyced in their theoretical framework, to then learn to simulate them in _dynare_.
 
+{style="text-align: justify;"}
+
+## Teaching material
+
 [![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)
 
 ## Get Started
