@@ -62,10 +62,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Visiting Ph.D. Scholar
+          company: Universitat Pompeu Fabra
+          company_url: ''
+          company_logo: org-phd
+          location: Barcelona, Spain
+          date_start: '2023-09-01'
+          date_end: '2023-12-31'
+          description:
         - title: Ph.D. in Economics, Statistics and Data Science
           company: University of Milano-Bicocca
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-phd
           location: Milan, Italy
           date_start: '2021-11-01'
           date_end: ''
@@ -73,7 +81,7 @@ sections:
         - title: MSc in European Economy and Business Law
           company: University of Rome Tor Vergata
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-msc
           location: Rome, Italy
           date_start: '2019-09-17'
           date_end: '2021-07-07'
@@ -81,9 +89,9 @@ sections:
         - title: BA in Political Sciences
           company: University of Rome Tre
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-ba
           location: Rome, Italy
-          date_start: '2016-09-17'
+          date_start: '2016-10-01'
           date_end: '2021-11-08'
           description:
     design:
