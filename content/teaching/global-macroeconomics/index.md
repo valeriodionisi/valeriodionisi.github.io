@@ -58,7 +58,7 @@ All the models are firstly introduced in their theoretical framework, to then le
 
 ## Teaching material
 
-- **_Lecture 1_**: link: uploads/resume.pdf
+- **_Lecture 1_**:
 - **_Lecture 2_**:
 - **_Lecture 3_**:
 
