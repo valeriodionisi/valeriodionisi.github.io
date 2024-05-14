@@ -55,10 +55,10 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: MatLab
         description: ''
         percent: 80
-        icon: python
+        icon: matlab
         icon_pack: fab
       - name: Data Science
         description: ''
