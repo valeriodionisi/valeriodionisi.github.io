@@ -12,7 +12,7 @@ projects: []
 date: '2024-20-04'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2024-05-14'
 
 # Is this an unpublished draft?
 draft: false
@@ -30,15 +30,15 @@ image:
 
 authors:
   - admin
-  - 吳恩達
+  #- 吳恩達
 
 tags:
   - Academic
-  - 开源
+  #- 开源
 
 categories:
   - Demo
-  - 教程
+  #- 教程
 ---
 
 ```python
