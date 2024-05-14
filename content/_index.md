@@ -68,15 +68,15 @@ sections:
           company_url: ''
           company_logo: logo-upf
           location: Barcelona, Spain
-          date_start: '2023' #'2023-09-01'
-          date_end: '2023' #'2023-12-31'
+          date_start: '2023-09-01'
+          date_end: '2023-12-31'
           description:
         - title: Ph.D. in Economics, Statistics and Data Science
           company: University of Milano-Bicocca
           company_url: ''
           company_logo: logo-unimib
           location: Milan, Italy
-          date_start: '2021' #'2021-11-01'
+          date_start: '2021-11-01'
           date_end: ''
           description:
         - title: MSc in European Economy and Business Law
@@ -84,16 +84,16 @@ sections:
           company_url: ''
           company_logo: logo-torvergata
           location: Rome, Italy
-          date_start: '2019' #'2019-09-17'
-          date_end: '2021' #'2021-07-07'
+          date_start: '2019-09-17'
+          date_end: '2021-07-07'
           description:
         - title: BA in Political Sciences
           company: University of Rome Tre
           company_url: ''
           company_logo: logo-romatre
           location: Rome, Italy
-          date_start: '2016' #'2016-10-01'
-          date_end: '2019' #'2019-11-08'
+          date_start: '2016-10-01'
+          date_end: '2019-11-08'
           description:
     design:
       columns: '2'
