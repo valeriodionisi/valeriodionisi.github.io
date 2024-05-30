@@ -62,6 +62,6 @@ The teaching material for this course can be found [**here**](https://github.com
 
 ### License
 
-Copyright 2024-present [Valerio Dionisi](https://valeriodionisi.github.io/teaching/global-macroeconomics/).
+Copyright 2024-present [Valerio Dionisi](https://valeriodionisi.github.io/).
 
 Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license.
