@@ -50,7 +50,7 @@ This course is the technical and tutorial part of the larger module "Global Macr
 2. _Deterministic simulation_: solution of the Solow (1956) model, and simulation of the Ramsey-Cass-Koopmans economy;
 3. _Real Business Cycle_ (RBC) models, and introduction to _log_-linearization;
 4. Baseline _New Keynesian_ (NK) models;
-5. Optimal monetary policy (_discretion_ vs. _committment_) in NK models;
+5. Optimal monetary policy (_discretion_ vs. _commitment_) in NK models;
 6. Topics in _Bayesian estimation_.
 
 All the models are firstly introduced in their theoretical framework, to then learn how to simulate them in `dynare`.
@@ -60,18 +60,18 @@ All the models are firstly introduced in their theoretical framework, to then le
 
 The teaching material for this course can be found [**here**](https://github.com/valeriodionisi/NumericalMethods_dynare).
 
-## Miscellaneous
+%## Miscellaneous
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)
+%[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)
 
-## Get Started
+%## Get Started
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://hugoblox.com/updates/)
+%- 👉 [**Create a new site**](https://hugoblox.com/templates/)
+%- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
+%- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+%- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
+%- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/HugoBlox/hugo-blox-builder/issues)
+%- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://hugoblox.com/updates/)
 
 ## Crowd-funded open-source software
 
