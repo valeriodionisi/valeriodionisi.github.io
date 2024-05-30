@@ -60,7 +60,7 @@ All the models are firstly introduced in their theoretical framework, to then le
 
 The teaching material for this course can be found [**here**](https://github.com/valeriodionisi/NumericalMethods_dynare).
 
-## License
+### License
 
 Copyright 2024-present [Valerio Dionisi](https://valeriodionisi.github.io/teaching/global-macroeconomics/).
 
